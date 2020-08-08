@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -11,15 +9,24 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="D:\Files\Source\Repos\thai_curry\flyer.png"
    width="1122.5197"
    height="793.70081"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="flyer.svg"
    viewBox="0 0 1052.3622 744.09448">
   <defs
      id="defs4">
+    <rect
+       id="rect1064"
+       height="381.33051"
+       width="577.37504"
+       y="344.27332"
+       x="33.471017" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6518">
@@ -141,6 +148,19 @@
        x2="675.36398"
        y2="324.15633"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       height="1.0000487"
+       y="-2.4338463e-05"
+       width="1.0000317"
+       x="-1.5853027e-05"
+       id="filter1050"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1052"
+         stdDeviation="0.0072130603"
+         inkscape:collect="always" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -149,9 +169,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="463.61608"
-     inkscape:cy="385.38865"
+     inkscape:zoom="0.78426061"
+     inkscape:cx="508.24441"
+     inkscape:cy="388.46374"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -159,7 +179,8 @@
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -173,226 +194,213 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.2677)"
-     style="display:inline;opacity:0.63300003"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <image
-       xlink:href="Japanese_civilians_listening_to_the_surrender_broadcast.jpg"
-       style="filter:url(#filter352)"
-       width="1061.5198"
-       height="746.89954"
-       id="image2994"
-       x="-4.2255888"
-       y="307.03033" />
+       sodipodi:absref="D:\Files\Source\Repos\thai_curry\Picture_taken_03.1987_-_Copy.jpg"
+       xlink:href="Picture_taken_03.1987_-_Copy.jpg"
+       y="298.49939"
+       x="-98.873344"
+       width="1183.0167"
+       height="1119.1714"
+       preserveAspectRatio="none"
+       id="image1038" />
   </g>
   <g
+     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="レイヤー"
-     style="display:inline">
+     style="display:inline;filter:url(#filter1050)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2997"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="matrix(1.6887901,0,0,1.6887901,-72.600798,-142.72779)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       transform="matrix(1.5473618,0,0,1.5473618,-100.75317,-153.33624)"><flowRegion
          id="flowRegion2999"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"><rect
            id="rect3001"
-           width="459.86371"
-           height="54.905533"
+           width="523.23712"
+           height="117.0602"
            x="76.771591"
            y="97.596855"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
-         id="flowPara6522">ROCK'N'ROLL RADIO 75</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;fill:#ffffff;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowPara6522">Today Your Love,</flowPara><flowPara
+         id="flowPara1026"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">Tomorrow The World</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
          id="flowPara6524" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
          id="flowPara6526" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
          id="flowPara6528" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
          id="flowPara6530" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
-         id="flowPara6532" /></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowPara6532" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot3005"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="matrix(1.1292267,0,0,1.1292267,8.2654038,-153.41728)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       transform="matrix(0.90380229,0,0,0.90380229,-118.20246,-52.311072)"><flowRegion
          id="flowRegion3007"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
            id="rect3009"
-           width="536.39099"
-           height="146.47211"
+           width="954.5481"
+           height="101.55164"
            x="352.54324"
            y="227.90652"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;" /></flowRegion><flowPara
          id="flowPara3011"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">HING×2涙なみだのタイカレー編</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3013"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.10758591px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="matrix(1.333872,0,0,1.333872,-186.18229,-201.48443)"><flowRegion
-         id="flowRegion3015"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.10758591px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
-           id="rect3017"
-           width="207.08128"
-           height="56.568539"
-           x="212.13203"
-           y="363.26697"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.10758591px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3019"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.10758591px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">OVERS</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3021"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="translate(163.83411,53.980027)"><flowRegion
-         id="flowRegion3023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
-           id="rect3025"
-           width="538.28503"
-           height="119.07172"
-           x="382.84781"
-           y="420.84567"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">de$truction4</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3029"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="translate(252.85381,-220.65518)"><flowRegion
-         id="flowRegion3031"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
-           id="rect3033"
-           width="471.36243"
-           height="72.478432"
-           x="232.33508"
-           y="537.01318"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3035"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">ミズノコウイチロウ</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3037"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="translate(-561.58169,-42.61581)"><flowRegion
-         id="flowRegion3039"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
-           id="rect3041"
-           width="439.54257"
-           height="72.541557"
-           x="693.97479"
-           y="449.12994"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3043"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">スクール☆ガール</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">Welcome Back HING×2 怒りのレッドカレー編</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot3045"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="translate(-385.43631,87.12566)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       transform="matrix(0.90436437,0,0,0.90436437,-362.52175,148.70187)"><flowRegion
          id="flowRegion3047"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
            id="rect3049"
-           width="483.86307"
-           height="111.11678"
+           width="855.25366"
+           height="129.50145"
            x="427.29453"
            y="72.34304"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3051"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">2019年8月15日 18時半</flowPara></flowRoot>    <flowRoot
-       transform="translate(-186.13585,-36.611723)"
-       xml:space="preserve"
-       id="flowRoot3029-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"><flowRegion
-         id="flowRegion3031-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
-           id="rect3033-0"
-           width="405.07117"
-           height="83.842659"
-           x="232.33508"
-           y="537.01318"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3035-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">ワダヒロミツ</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
+         id="flowPara1058"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">2020年8月16日 18時30分</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot49"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="matrix(0.9375,0,0,0.9375,184.66852,-89.966703)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       transform="matrix(0.9375,0,0,0.9375,32.994378,361.09)"><flowRegion
          id="flowRegion51"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
            id="rect53"
            width="582.85803"
            height="64.64978"
            x="356.58386"
            y="299.73621"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
          id="flowPara55"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">@武蔵境Live&amp;beer Statto</flowPara></flowRoot>    <flowRoot
-       transform="translate(29.413726,57.499444)"
-       xml:space="preserve"
-       id="flowRoot3029-8-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.5px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"><flowRegion
-         id="flowRegion3031-2-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.5px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
-           id="rect3033-0-9"
-           width="850.16962"
-           height="98.994926"
-           x="232.33508"
-           y="537.01318"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.5px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara3035-8-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.5px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">Traveling Riverside Blues</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">@武蔵境Live&amp;beer Statto</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot3045-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="translate(-338.83196,149.23734)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       transform="translate(-403.21462,197.95915)"><flowRegion
          id="flowRegion3047-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
            id="rect3049-5"
-           width="712.09436"
-           height="217.1828"
+           width="440.74014"
+           height="67.758629"
            x="427.29453"
            y="72.34304"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"
-         id="flowPara6610">1500円(+ドリンク500円)</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999982px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;font-variant-east-asian:normal;" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowPara6610">2300円(+ドリンク500円)</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot49-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-       transform="matrix(0.9375,0,0,0.9375,410.12405,-42.182306)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       transform="matrix(0.9375,0,0,0.9375,49.892261,411.07924)"><flowRegion
          id="flowRegion51-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
            id="rect53-4"
            width="582.85803"
            height="64.64978"
            x="356.58386"
            y="299.73621"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
          id="flowPara55-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">0422-36-0248</flowPara></flowRoot>    <image
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">0422-36-0248</flowPara></flowRoot>
+    <image
+       sodipodi:absref="D:\Files\Source\Repos\thai_curry\qr_statto.png"
        xlink:href="qr_statto.png"
        width="62.493622"
        height="62.493622"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
        id="image6646"
-       x="14.210025"
-       y="667.39081" />
+       x="963.35242"
+       y="653.04608" />
     <flowRoot
-       transform="translate(594.85174,131.41916)"
+       transform="matrix(0.81909905,0,0,0.81909905,-122.5714,151.42569)"
        xml:space="preserve"
        id="flowRoot3029-8-8-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><flowRegion
          id="flowRegion3031-2-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
            id="rect3033-0-9-4"
            width="850.16962"
            height="98.994926"
            x="232.33508"
            y="537.01318"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
          id="flowPara3035-8-1-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:ZenjidoJP;-inkscape-font-specification:'ZenjidoJP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-opacity:1">and more</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">and more?</flowPara></flowRoot>
+    <text
+       transform="translate(-5.9769674,-3.5861813)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1064);fill:#ffffff;fill-opacity:1;stroke:none;"
+       id="text1062"
+       xml:space="preserve"><tspan
+         x="33.470703"
+         y="389.49844"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">DESTRUCTION4
+</tspan></tspan><tspan
+         x="33.470703"
+         y="445.74844"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">
+</tspan></tspan><tspan
+         x="33.470703"
+         y="501.99844"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">ミズノコウイチロウ</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">
+</tspan></tspan><tspan
+         x="33.470703"
+         y="558.24844"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">ワダダイナマイトヒロミツ</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">
+</tspan></tspan></text>
+    <text
+       id="text1072"
+       y="441.10016"
+       x="29.884817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.9375"
+         y="441.10016"
+         x="29.884817"
+         id="tspan1070"
+         sodipodi:role="line">mitsuya</tspan></text>
+    <text
+       id="text1076"
+       y="108.78081"
+       x="-144.64261"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.9375"
+         y="108.78081"
+         x="-144.64261"
+         id="tspan1074"
+         sodipodi:role="line" /></text>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     style="display:none"
+     inkscape:label="レイヤー 2"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#808080;fill-opacity:0.3;stroke:#000000;stroke-width:1.22852;stroke-opacity:1"
+       y="0.96448016"
+       x="1.0879529"
+       height="744.51129"
+       width="1053.353"
+       id="rect199" />
+  </g>
 </svg>
