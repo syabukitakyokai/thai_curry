@@ -9,6 +9,182 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+<<<<<<< HEAD
+   viewBox="0 0 1052.3622 744.09448"
+   sodipodi:docname="flyer.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg2"
+   height="793.70081"
+   width="1122.5197"
+   inkscape:export-filename="D:\Files\Source\Repos\thai_curry\flyer.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title137">red_curry</title>
+  <defs
+     id="defs4">
+    <rect
+       x="33.471017"
+       y="344.27332"
+       width="577.37504"
+       height="381.33051"
+       id="rect1064" />
+    <linearGradient
+       id="linearGradient6518"
+       inkscape:collect="always">
+      <stop
+         id="stop6514"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop6516"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6508"
+       inkscape:collect="always">
+      <stop
+         id="stop6504"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop6506"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5052">
+      <stop
+         id="stop5050"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       id="filter352"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Film Grain"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Adds a small scale graininess">
+      <feOffset
+         id="feOffset342"
+         dx="3"
+         dy="3" />
+      <feGaussianBlur
+         id="feGaussianBlur344"
+         result="blur"
+         stdDeviation="3" />
+      <feFlood
+         id="feFlood346"
+         result="flood"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feComposite
+         id="feComposite348"
+         result="composite"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feBlend
+         result="fbSourceGraphic"
+         id="feBlend350"
+         mode="normal"
+         in2="composite"
+         in="blur" />
+      <feColorMatrix
+         id="feColorMatrix522"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feTurbulence
+         in="fbSourceGraphic"
+         result="result0"
+         seed="0"
+         baseFrequency="1"
+         numOctaves="3"
+         type="fractalNoise"
+         id="feTurbulence524" />
+      <feColorMatrix
+         type="saturate"
+         values="0"
+         result="result4"
+         id="feColorMatrix526" />
+      <feComposite
+         result="result2"
+         k3="0.5"
+         k2="0.5"
+         k1="1.25"
+         operator="arithmetic"
+         in="fbSourceGraphic"
+         id="feComposite528"
+         in2="result4" />
+      <feBlend
+         in="result2"
+         mode="normal"
+         result="result5"
+         id="feBlend530"
+         in2="fbSourceGraphic" />
+      <feComposite
+         result="result3"
+         operator="in"
+         in="result5"
+         id="feComposite532"
+         in2="fbSourceGraphic" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="324.15634"
+       x2="674.86395"
+       y1="324.15634"
+       x1="357.66397"
+       id="linearGradient6512"
+       xlink:href="#linearGradient6508"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="324.15633"
+       x2="675.36398"
+       y1="324.15633"
+       x1="357.16398"
+       id="linearGradient6520"
+       xlink:href="#linearGradient6518"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1050"
+       x="-1.5853027e-05"
+       width="1.0000317"
+       y="-2.4338463e-05"
+       height="1.0000487">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0072130603"
+         id="feGaussianBlur1052" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="px"
+     inkscape:cy="388.46374"
+     inkscape:cx="485.29286"
+     inkscape:zoom="0.78426061"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+=======
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="D:\Files\Source\Repos\thai_curry\flyer.png"
@@ -181,6 +357,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0" />
+>>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -189,12 +366,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>red_curry</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      sodipodi:insensitive="true"
+<<<<<<< HEAD
+     style="display:inline;opacity:1"
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="レイヤー 1">
+    <image
+       sodipodi:absref="D:\Files\Source\Repos\thai_curry\Picture_taken_03.1987_-_Copy.jpg"
+       xlink:href="Picture_taken_03.1987_-_Copy.jpg"
+       y="304.47635"
+       x="-97.677948"
+=======
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -205,6 +394,7 @@
        xlink:href="Picture_taken_03.1987_-_Copy.jpg"
        y="298.49939"
        x="-98.873344"
+>>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
        width="1183.0167"
        height="1119.1714"
        preserveAspectRatio="none"
@@ -212,13 +402,131 @@
   </g>
   <g
      sodipodi:insensitive="true"
+<<<<<<< HEAD
+     style="display:inline;filter:url(#filter1050)"
+     inkscape:label="レイヤー"
+     id="layer2"
+     inkscape:groupmode="layer">
+=======
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="レイヤー"
      style="display:inline;filter:url(#filter1050)">
+>>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
     <flowRoot
-       xml:space="preserve"
+       transform="matrix(1.5473618,0,0,1.5473618,-100.75317,-153.33624)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        id="flowRoot2997"
+<<<<<<< HEAD
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowRegion2999"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;fill:#ffffff;"
+           y="97.596855"
+           x="76.771591"
+           height="117.0602"
+           width="523.23712"
+           id="rect3001" /></flowRegion><flowPara
+         id="flowPara6522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">Today Your Love,</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowPara1026">Tomorrow The World</flowPara><flowPara
+         id="flowPara6524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
+         id="flowPara6526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
+         id="flowPara6528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
+         id="flowPara6530"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
+         id="flowPara6532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /></flowRoot>
+    <flowRoot
+       transform="matrix(0.90380229,0,0,0.90380229,-118.20246,-52.311072)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="flowRoot3005"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"
+         id="flowRegion3007"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;"
+           y="227.90652"
+           x="352.54324"
+           height="101.55164"
+           width="954.5481"
+           id="rect3009" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowPara3011">Welcome Back HING<flowSpan
+   id="flowSpan143"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">×</flowSpan>2 <flowSpan
+   id="flowSpan129"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">鬼滅</flowSpan>のレッドカレー<flowSpan
+   id="flowSpan131"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">編</flowSpan></flowPara></flowRoot>
+    <flowRoot
+       transform="matrix(0.90436437,0,0,0.90436437,-358.93557,141.52951)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="flowRoot3045"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"
+         id="flowRegion3047"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;"
+           y="72.34304"
+           x="427.29453"
+           height="129.50145"
+           width="855.25366"
+           id="rect3049" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
+         id="flowPara1058">2020年8月16日 18時30分スタート</flowPara></flowRoot>
+    <flowRoot
+       transform="matrix(0.9375,0,0,0.9375,32.994378,361.09)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="flowRoot49"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="flowRegion51"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
+           y="299.73621"
+           x="356.58386"
+           height="64.64978"
+           width="582.85803"
+           id="rect53" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="flowPara55">@武蔵<flowSpan
+   id="flowSpan133"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">境</flowSpan>Live&amp;beer Statto</flowPara></flowRoot>
+    <flowRoot
+       transform="translate(-402.01923,188.396)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="flowRoot3045-9"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"
+         id="flowRegion3047-6"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999982px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;font-variant-east-asian:normal;"
+           y="72.34304"
+           x="427.29453"
+           height="67.758629"
+           width="440.74014"
+           id="rect3049-5" /></flowRegion><flowPara
+         id="flowPara6610"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">2300円(<flowSpan
+   id="flowSpan149"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">+</flowSpan>ドリンク500円)</flowPara></flowRoot>
+    <flowRoot
+       transform="matrix(0.9375,0,0,0.9375,49.892261,411.07924)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="flowRoot49-4"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="flowRegion51-8"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
+           y="299.73621"
+           x="356.58386"
+           height="64.64978"
+           width="582.85803"
+           id="rect53-4" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+         id="flowPara55-5">0422-36-0248</flowPara></flowRoot>
+=======
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
        transform="matrix(1.5473618,0,0,1.5473618,-100.75317,-153.33624)"><flowRegion
          id="flowRegion2999"
@@ -318,6 +626,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
          id="flowPara55-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">0422-36-0248</flowPara></flowRoot>
+>>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
     <image
        sodipodi:absref="D:\Files\Source\Repos\thai_curry\qr_statto.png"
        xlink:href="qr_statto.png"
@@ -328,6 +637,72 @@
        id="image6646"
        x="963.35242"
        y="653.04608" />
+<<<<<<< HEAD
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="-144.64261"
+       y="108.78081"
+       id="text1076"><tspan
+         sodipodi:role="line"
+         id="tspan1074"
+         x="-144.64261"
+         y="108.78081"
+         style="stroke-width:0.9375" /></text>
+    <g
+       transform="translate(-1.1953934,-29.884836)"
+       id="g127">
+      <text
+         transform="translate(-5.9769674,-3.5861813)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1064);fill:#ffffff;fill-opacity:1;stroke:none;"
+         id="text1062"
+         xml:space="preserve"><tspan
+           x="33.470703"
+           y="389.49844"><tspan
+             style="shape-inside:url(#rect1064)">DESTRUCTION4
+</tspan></tspan><tspan
+           x="33.470703"
+           y="445.74844"><tspan
+             style="shape-inside:url(#rect1064)">
+</tspan></tspan><tspan
+           x="33.470703"
+           y="501.99844"><tspan
+             style="shape-inside:url(#rect1064)">ミズノコウイチロウ</tspan><tspan
+             style="shape-inside:url(#rect1064)">
+</tspan></tspan><tspan
+           x="33.470703"
+           y="558.24844"><tspan
+             style="shape-inside:url(#rect1064)">ワダダイナマイトヒロミツ</tspan></tspan><tspan
+           x="33.470703"
+           y="614.49844"><tspan
+             style="shape-inside:url(#rect1064)">モロコシボーイズ</tspan></tspan></text>
+      <text
+         id="text1072"
+         y="441.10016"
+         x="29.884817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.9375"
+           y="441.10016"
+           x="29.884817"
+           id="tspan1070"
+           sodipodi:role="line">mitsuya</tspan></text>
+    </g>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="レイヤー 2"
+     style="display:none">
+    <rect
+       id="rect199"
+       width="1053.353"
+       height="744.51129"
+       x="1.0879529"
+       y="0.96448016"
+       style="fill:#808080;fill-opacity:0.3;stroke:#000000;stroke-width:1.22852;stroke-opacity:1" />
+=======
     <flowRoot
        transform="matrix(0.81909905,0,0,0.81909905,-122.5714,151.42569)"
        xml:space="preserve"
@@ -402,5 +777,6 @@
        height="744.51129"
        width="1053.353"
        id="rect199" />
+>>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
   </g>
 </svg>
