@@ -1,782 +1,406 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-<<<<<<< HEAD
-   viewBox="0 0 1052.3622 744.09448"
-   sodipodi:docname="flyer.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
    version="1.1"
-   id="svg2"
-   height="793.70081"
-   width="1122.5197"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="flyer.svg"
    inkscape:export-filename="D:\Files\Source\Repos\thai_curry\flyer.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
-  <title
-     id="title137">red_curry</title>
-  <defs
-     id="defs4">
-    <rect
-       x="33.471017"
-       y="344.27332"
-       width="577.37504"
-       height="381.33051"
-       id="rect1064" />
-    <linearGradient
-       id="linearGradient6518"
-       inkscape:collect="always">
-      <stop
-         id="stop6514"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop6516"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient6508"
-       inkscape:collect="always">
-      <stop
-         id="stop6504"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-      <stop
-         id="stop6506"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
-    </linearGradient>
-    <linearGradient
-       osb:paint="solid"
-       id="linearGradient5052">
-      <stop
-         id="stop5050"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
-    </linearGradient>
-    <filter
-       id="filter352"
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Film Grain"
-       inkscape:menu="Image Effects"
-       inkscape:menu-tooltip="Adds a small scale graininess">
-      <feOffset
-         id="feOffset342"
-         dx="3"
-         dy="3" />
-      <feGaussianBlur
-         id="feGaussianBlur344"
-         result="blur"
-         stdDeviation="3" />
-      <feFlood
-         id="feFlood346"
-         result="flood"
-         flood-opacity="1"
-         flood-color="rgb(0,0,0)" />
-      <feComposite
-         id="feComposite348"
-         result="composite"
-         operator="in"
-         in2="SourceGraphic"
-         in="flood" />
-      <feBlend
-         result="fbSourceGraphic"
-         id="feBlend350"
-         mode="normal"
-         in2="composite"
-         in="blur" />
-      <feColorMatrix
-         id="feColorMatrix522"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         in="fbSourceGraphic"
-         result="fbSourceGraphicAlpha" />
-      <feTurbulence
-         in="fbSourceGraphic"
-         result="result0"
-         seed="0"
-         baseFrequency="1"
-         numOctaves="3"
-         type="fractalNoise"
-         id="feTurbulence524" />
-      <feColorMatrix
-         type="saturate"
-         values="0"
-         result="result4"
-         id="feColorMatrix526" />
-      <feComposite
-         result="result2"
-         k3="0.5"
-         k2="0.5"
-         k1="1.25"
-         operator="arithmetic"
-         in="fbSourceGraphic"
-         id="feComposite528"
-         in2="result4" />
-      <feBlend
-         in="result2"
-         mode="normal"
-         result="result5"
-         id="feBlend530"
-         in2="fbSourceGraphic" />
-      <feComposite
-         result="result3"
-         operator="in"
-         in="result5"
-         id="feComposite532"
-         in2="fbSourceGraphic" />
-    </filter>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="324.15634"
-       x2="674.86395"
-       y1="324.15634"
-       x1="357.66397"
-       id="linearGradient6512"
-       xlink:href="#linearGradient6508"
-       inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="324.15633"
-       x2="675.36398"
-       y1="324.15633"
-       x1="357.16398"
-       id="linearGradient6520"
-       xlink:href="#linearGradient6518"
-       inkscape:collect="always" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1050"
-       x="-1.5853027e-05"
-       width="1.0000317"
-       y="-2.4338463e-05"
-       height="1.0000487">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.0072130603"
-         id="feGaussianBlur1052" />
-    </filter>
-  </defs>
-  <sodipodi:namedview
-     inkscape:document-rotation="0"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1057"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:current-layer="layer2"
-     inkscape:document-units="px"
-     inkscape:cy="388.46374"
-     inkscape:cx="485.29286"
-     inkscape:zoom="0.78426061"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base" />
-=======
    inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="D:\Files\Source\Repos\thai_curry\flyer.png"
-   width="1122.5197"
-   height="793.70081"
-   id="svg2"
-   version="1.1"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="flyer.svg"
-   viewBox="0 0 1052.3622 744.09448">
-  <defs
-     id="defs4">
-    <rect
-       id="rect1064"
-       height="381.33051"
-       width="577.37504"
-       y="344.27332"
-       x="33.471017" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6518">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop6514" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop6516" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6508">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop6504" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop6506" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5052"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5050" />
-    </linearGradient>
-    <filter
-       inkscape:menu-tooltip="Adds a small scale graininess"
-       inkscape:menu="Image Effects"
-       inkscape:label="Film Grain"
-       style="color-interpolation-filters:sRGB;"
-       id="filter352">
-      <feOffset
-         dy="3"
-         dx="3"
-         id="feOffset342" />
-      <feGaussianBlur
-         stdDeviation="3"
-         result="blur"
-         id="feGaussianBlur344" />
-      <feFlood
-         flood-color="rgb(0,0,0)"
-         flood-opacity="1"
-         result="flood"
-         id="feFlood346" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite"
-         id="feComposite348" />
-      <feBlend
-         in="blur"
-         in2="composite"
-         mode="normal"
-         id="feBlend350"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix522" />
-      <feTurbulence
-         id="feTurbulence524"
-         type="fractalNoise"
-         numOctaves="3"
-         baseFrequency="1"
-         seed="0"
-         result="result0"
-         in="fbSourceGraphic" />
-      <feColorMatrix
-         id="feColorMatrix526"
-         result="result4"
-         values="0"
-         type="saturate" />
-      <feComposite
-         in2="result4"
-         id="feComposite528"
-         in="fbSourceGraphic"
-         operator="arithmetic"
-         k1="1.25"
-         k2="0.5"
-         k3="0.5"
-         result="result2" />
-      <feBlend
-         in2="fbSourceGraphic"
-         id="feBlend530"
-         result="result5"
-         mode="normal"
-         in="result2" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite532"
-         in="result5"
-         operator="in"
-         result="result3" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6508"
-       id="linearGradient6512"
-       x1="357.66397"
-       y1="324.15634"
-       x2="674.86395"
-       y2="324.15634"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6518"
-       id="linearGradient6520"
-       x1="357.16398"
-       y1="324.15633"
-       x2="675.36398"
-       y2="324.15633"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       height="1.0000487"
-       y="-2.4338463e-05"
-       width="1.0000317"
-       x="-1.5853027e-05"
-       id="filter1050"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur1052"
-         stdDeviation="0.0072130603"
-         inkscape:collect="always" />
-    </filter>
-  </defs>
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title147364">thai_curry_210815</title>
   <sodipodi:namedview
-     id="base"
+     id="namedview7"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     bordercolor="#ff0000"
+     borderopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78426061"
-     inkscape:cx="508.24441"
-     inkscape:cy="388.46374"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
      showgrid="false"
+     inkscape:zoom="0.77682379"
+     inkscape:cx="452.48357"
+     inkscape:cy="407.4283"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0" />
->>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
+     inkscape:current-layer="layer2"
+     borderlayer="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="328.25977"
+       y="319.24872"
+       width="450.55264"
+       height="66.939247"
+       id="rect98154" />
+    <rect
+       x="352.71835"
+       y="332.12164"
+       width="301.22662"
+       height="88.823235"
+       id="rect90670" />
+    <rect
+       x="52.779022"
+       y="153.1879"
+       width="388.76254"
+       height="145.46413"
+       id="rect71312" />
+    <rect
+       x="39.90609"
+       y="227.85091"
+       width="438.96698"
+       height="128.72932"
+       id="rect67988" />
+    <rect
+       x="25.745865"
+       y="247.16029"
+       width="540.01953"
+       height="133.23485"
+       id="rect37602" />
+    <rect
+       x="33.469624"
+       y="21.883986"
+       width="532.29578"
+       height="358.51117"
+       id="rect7522" />
+    <rect
+       x="-1.7301444"
+       y="-0.45204529"
+       width="568.13922"
+       height="423.97147"
+       id="rect4678" />
+    <rect
+       x="33.469624"
+       y="21.883986"
+       width="532.29578"
+       height="358.51117"
+       id="rect7522-0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#707070;fill-opacity:1;stroke-width:0.264574"
+       id="rect7215"
+       width="150.32016"
+       height="112.17579"
+       x="-0.45776737"
+       y="-0.11960365" />
+    <rect
+       style="display:inline;fill:#3b3b3b;fill-opacity:1;stroke-width:0.261723"
+       id="rect7215-2"
+       width="149.9911"
+       height="110.0126"
+       x="-0.2990084"
+       y="100.64622" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <image
+       width="241.02777"
+       height="128.93073"
+       preserveAspectRatio="none"
+       style="fill:#707070;fill-opacity:1;image-rendering:optimizeQuality"
+       xlink:href="Flag_hoisting_ceremony_of_Independence_day_in_Bhuj_color.jpg"
+       id="image96"
+       x="-27.53109"
+       y="75.179131" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g128246"
+       transform="translate(-9.1316824,-5.1820335)"
+       style="stroke:#000000;stroke-opacity:1;paint-order:markers stroke fill">
+      <text
+         xml:space="preserve"
+         style="font-size:9.87778px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+         x="113.07972"
+         y="194.07051"
+         id="text107856-6-1"><tspan
+           sodipodi:role="line"
+           id="tspan107854-3-1"
+           style="font-size:9.87778px;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+           x="113.07972"
+           y="194.07051">BB</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.40119px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;fill:#ffffff;stroke:#000000;stroke-width:0.210361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="163.40678"
+         y="152.78955"
+         id="text125322"
+         transform="scale(0.78771579,1.2694934)"><tspan
+           sodipodi:role="line"
+           id="tspan125320"
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.210361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="163.40678"
+           y="152.78955">alone</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.3408764,-0.63439365)"
+       id="text7520"
+       style="font-size:42.6667px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;white-space:pre;shape-inside:url(#rect7522-0);fill:#ffffff;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="1236.6646"
+       y="0"><tspan
+         x="33.46875"
+         y="69.884801"
+         id="tspan147870">DO YOU REMEMBER
+</tspan><tspan
+         x="33.46875"
+         y="123.21818"
+         id="tspan147872">ROCK AND ROLL </tspan><tspan
+         x="33.46875"
+         y="176.55155"
+         id="tspan147874">RADIO?</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.899082,-14.305043)"
+       id="text37600"
+       style="font-size:26.6667px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;white-space:pre;shape-inside:url(#rect37602);stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="25.746094"
+         y="277.16019"
+         id="tspan147878"><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147876">\2,000/2,300(+DRINK500)
+</tspan></tspan><tspan
+         x="25.746094"
+         y="310.49357"
+         id="tspan147882"><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147880">2021-08-15 16:15@ATATTO
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text67986"
+       style="font-size:40px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;white-space:pre;shape-inside:url(#rect67988)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,24.182339,-2.0435778)"
+       id="text71310"
+       style="font-size:32px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;text-align:end;white-space:pre;shape-inside:url(#rect71312);stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"
+       x="295.09726"
+       y="0"><tspan
+         x="142.87445"
+         y="189.1875"
+         id="tspan147894"><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147884">緊急事</tspan><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147886">タイカレ</tspan><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147888">ー</tspan><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147890">宣言編</tspan><tspan
+           style="fill:#ffffff;stroke:#000000;paint-order:markers stroke fill"
+           id="tspan147892">
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-28.781103,-15.892547)"
+       id="text98152"
+       style="font-size:21.3333px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;white-space:pre;shape-inside:url(#rect98154);fill:#ffffff;stroke:#000000;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"><tspan
+         x="328.25977"
+         y="343.24801"
+         id="tspan147896"> *カレーの提供はありません、ゴメンナサイ。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+       x="7.381897"
+       y="87.989326"
+       id="text107856"><tspan
+         sodipodi:role="line"
+         id="tspan107854"
+         style="font-size:9.87778px;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+         x="7.381897"
+         y="87.989326">DESTRUCTION4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+       x="7.381897"
+       y="200.63741"
+       id="text107856-6"><tspan
+         sodipodi:role="line"
+         id="tspan107854-3"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+         x="7.381897"
+         y="200.63741">フライパンジーク</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+       x="7.7230749"
+       y="111.89196"
+       id="text107856-3"><tspan
+         sodipodi:role="line"
+         id="tspan107854-2"
+         style="font-size:9.87778px;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+         x="7.7230749"
+         y="111.89196">SOLID EDGE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+       x="69.962807"
+       y="101.05776"
+       id="text107856-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan107854-2-6"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+         x="69.962807"
+         y="101.05776">デミグラスハンバーグ</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1;paint-order:markers stroke fill"
+         x="69.962807"
+         y="114.28689"
+         id="tspan113211" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;stroke-width:0.264583"
+       x="153.94955"
+       y="122.61468"
+       id="text111771"><tspan
+         sodipodi:role="line"
+         id="tspan111769"
+         style="stroke-width:0.264583"
+         x="153.94955"
+         y="122.61468" /></text>
+    <image
+       width="14.769879"
+       height="14.769879"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+"
+       id="image134464"
+       x="124.72641"
+       y="14.62528" />
+  </g>
+  <text
+     xml:space="preserve"
+     transform="scale(0.26458333)"
+     id="text4676"
+     style="font-size:40px;line-height:1.25;font-family:x8y12pxTheStrongGamer;-inkscape-font-specification:x8y12pxTheStrongGamer;white-space:pre;shape-inside:url(#rect4678)" />
   <metadata
-     id="metadata7">
+     id="metadata147360">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>red_curry</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>thai_curry_210815</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>This is a derivative of &quot;Flickr: Flag hoisting ceremony of Independence day in Bhuj&quot; by Narendra Modi, used under CC BY-SA 2.0. This is licensed under CC BY-SA 2.0 by syabukitakyokaif.</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>syabukitakyokai</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     sodipodi:insensitive="true"
-<<<<<<< HEAD
-     style="display:inline;opacity:1"
-     transform="translate(0,-308.2677)"
-     id="layer1"
-     inkscape:groupmode="layer"
-     inkscape:label="レイヤー 1">
-    <image
-       sodipodi:absref="D:\Files\Source\Repos\thai_curry\Picture_taken_03.1987_-_Copy.jpg"
-       xlink:href="Picture_taken_03.1987_-_Copy.jpg"
-       y="304.47635"
-       x="-97.677948"
-=======
-     inkscape:label="レイヤー 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-308.2677)"
-     style="display:inline;opacity:1">
-    <image
-       sodipodi:absref="D:\Files\Source\Repos\thai_curry\Picture_taken_03.1987_-_Copy.jpg"
-       xlink:href="Picture_taken_03.1987_-_Copy.jpg"
-       y="298.49939"
-       x="-98.873344"
->>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
-       width="1183.0167"
-       height="1119.1714"
-       preserveAspectRatio="none"
-       id="image1038" />
-  </g>
-  <g
-     sodipodi:insensitive="true"
-<<<<<<< HEAD
-     style="display:inline;filter:url(#filter1050)"
-     inkscape:label="レイヤー"
-     id="layer2"
-     inkscape:groupmode="layer">
-=======
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="レイヤー"
-     style="display:inline;filter:url(#filter1050)">
->>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
-    <flowRoot
-       transform="matrix(1.5473618,0,0,1.5473618,-100.75317,-153.33624)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="flowRoot2997"
-<<<<<<< HEAD
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowRegion2999"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;fill:#ffffff;"
-           y="97.596855"
-           x="76.771591"
-           height="117.0602"
-           width="523.23712"
-           id="rect3001" /></flowRegion><flowPara
-         id="flowPara6522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">Today Your Love,</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara1026">Tomorrow The World</flowPara><flowPara
-         id="flowPara6524"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
-         id="flowPara6526"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
-         id="flowPara6528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
-         id="flowPara6530"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /><flowPara
-         id="flowPara6532"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1" /></flowRoot>
-    <flowRoot
-       transform="matrix(0.90380229,0,0,0.90380229,-118.20246,-52.311072)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="flowRoot3005"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"
-         id="flowRegion3007"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;"
-           y="227.90652"
-           x="352.54324"
-           height="101.55164"
-           width="954.5481"
-           id="rect3009" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara3011">Welcome Back HING<flowSpan
-   id="flowSpan143"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">×</flowSpan>2 <flowSpan
-   id="flowSpan129"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">鬼滅</flowSpan>のレッドカレー<flowSpan
-   id="flowSpan131"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">編</flowSpan></flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.90436437,0,0,0.90436437,-358.93557,141.52951)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="flowRoot3045"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"
-         id="flowRegion3047"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;"
-           y="72.34304"
-           x="427.29453"
-           height="129.50145"
-           width="855.25366"
-           id="rect3049" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara1058">2020年8月16日 18時30分スタート</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.9375,0,0,0.9375,32.994378,361.09)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="flowRoot49"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="flowRegion51"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
-           y="299.73621"
-           x="356.58386"
-           height="64.64978"
-           width="582.85803"
-           id="rect53" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="flowPara55">@武蔵<flowSpan
-   id="flowSpan133"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">境</flowSpan>Live&amp;beer Statto</flowPara></flowRoot>
-    <flowRoot
-       transform="translate(-402.01923,188.396)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="flowRoot3045-9"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"
-         id="flowRegion3047-6"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999982px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;font-variant-east-asian:normal;"
-           y="72.34304"
-           x="427.29453"
-           height="67.758629"
-           width="440.74014"
-           id="rect3049-5" /></flowRegion><flowPara
-         id="flowPara6610"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">2300円(<flowSpan
-   id="flowSpan149"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tanuki Permanent Marker';-inkscape-font-specification:'Tanuki Permanent Marker'">+</flowSpan>ドリンク500円)</flowPara></flowRoot>
-    <flowRoot
-       transform="matrix(0.9375,0,0,0.9375,49.892261,411.07924)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="flowRoot49-4"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="flowRegion51-8"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
-           y="299.73621"
-           x="356.58386"
-           height="64.64978"
-           width="582.85803"
-           id="rect53-4" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="flowPara55-5">0422-36-0248</flowPara></flowRoot>
-=======
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="matrix(1.5473618,0,0,1.5473618,-100.75317,-153.33624)"><flowRegion
-         id="flowRegion2999"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"><rect
-           id="rect3001"
-           width="523.23712"
-           height="117.0602"
-           x="76.771591"
-           y="97.596855"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;fill:#ffffff;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6522">Today Your Love,</flowPara><flowPara
-         id="flowPara1026"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">Tomorrow The World</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6524" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6526" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6528" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6530" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6532" /></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3005"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="matrix(0.90380229,0,0,0.90380229,-118.20246,-52.311072)"><flowRegion
-         id="flowRegion3007"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
-           id="rect3009"
-           width="954.5481"
-           height="101.55164"
-           x="352.54324"
-           y="227.90652"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:1;stroke-opacity:1;" /></flowRegion><flowPara
-         id="flowPara3011"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2575px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">Welcome Back HING×2 怒りのレッドカレー編</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3045"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="matrix(0.90436437,0,0,0.90436437,-362.52175,148.70187)"><flowRegion
-         id="flowRegion3047"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
-           id="rect3049"
-           width="855.25366"
-           height="129.50145"
-           x="427.29453"
-           y="72.34304"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
-         id="flowPara1058"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">2020年8月16日 18時30分</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot49"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="matrix(0.9375,0,0,0.9375,32.994378,361.09)"><flowRegion
-         id="flowRegion51"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
-           id="rect53"
-           width="582.85803"
-           height="64.64978"
-           x="356.58386"
-           y="299.73621"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
-         id="flowPara55"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">@武蔵境Live&amp;beer Statto</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3045-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="translate(-403.21462,197.95915)"><flowRegion
-         id="flowRegion3047-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
-           id="rect3049-5"
-           width="440.74014"
-           height="67.758629"
-           x="427.29453"
-           y="72.34304"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.99999982px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;font-variant-east-asian:normal;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1"
-         id="flowPara6610">2300円(+ドリンク500円)</flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot49-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="matrix(0.9375,0,0,0.9375,49.892261,411.07924)"><flowRegion
-         id="flowRegion51-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
-           id="rect53-4"
-           width="582.85803"
-           height="64.64978"
-           x="356.58386"
-           y="299.73621"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
-         id="flowPara55-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">0422-36-0248</flowPara></flowRoot>
->>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
-    <image
-       sodipodi:absref="D:\Files\Source\Repos\thai_curry\qr_statto.png"
-       xlink:href="qr_statto.png"
-       width="62.493622"
-       height="62.493622"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image6646"
-       x="963.35242"
-       y="653.04608" />
-<<<<<<< HEAD
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       x="-144.64261"
-       y="108.78081"
-       id="text1076"><tspan
-         sodipodi:role="line"
-         id="tspan1074"
-         x="-144.64261"
-         y="108.78081"
-         style="stroke-width:0.9375" /></text>
-    <g
-       transform="translate(-1.1953934,-29.884836)"
-       id="g127">
-      <text
-         transform="translate(-5.9769674,-3.5861813)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1064);fill:#ffffff;fill-opacity:1;stroke:none;"
-         id="text1062"
-         xml:space="preserve"><tspan
-           x="33.470703"
-           y="389.49844"><tspan
-             style="shape-inside:url(#rect1064)">DESTRUCTION4
-</tspan></tspan><tspan
-           x="33.470703"
-           y="445.74844"><tspan
-             style="shape-inside:url(#rect1064)">
-</tspan></tspan><tspan
-           x="33.470703"
-           y="501.99844"><tspan
-             style="shape-inside:url(#rect1064)">ミズノコウイチロウ</tspan><tspan
-             style="shape-inside:url(#rect1064)">
-</tspan></tspan><tspan
-           x="33.470703"
-           y="558.24844"><tspan
-             style="shape-inside:url(#rect1064)">ワダダイナマイトヒロミツ</tspan></tspan><tspan
-           x="33.470703"
-           y="614.49844"><tspan
-             style="shape-inside:url(#rect1064)">モロコシボーイズ</tspan></tspan></text>
-      <text
-         id="text1072"
-         y="441.10016"
-         x="29.884817"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.9375"
-           y="441.10016"
-           x="29.884817"
-           id="tspan1070"
-           sodipodi:role="line">mitsuya</tspan></text>
-    </g>
-  </g>
-  <g
-     sodipodi:insensitive="true"
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="レイヤー 2"
-     style="display:none">
-    <rect
-       id="rect199"
-       width="1053.353"
-       height="744.51129"
-       x="1.0879529"
-       y="0.96448016"
-       style="fill:#808080;fill-opacity:0.3;stroke:#000000;stroke-width:1.22852;stroke-opacity:1" />
-=======
-    <flowRoot
-       transform="matrix(0.81909905,0,0,0.81909905,-122.5714,151.42569)"
-       xml:space="preserve"
-       id="flowRoot3029-8-8-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:0.01%;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"><flowRegion
-         id="flowRegion3031-2-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1"><rect
-           id="rect3033-0-9-4"
-           width="850.16962"
-           height="98.994926"
-           x="232.33508"
-           y="537.01318"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;" /></flowRegion><flowPara
-         id="flowPara3035-8-1-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:fgzerorabaul;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-opacity:1">and more?</flowPara></flowRoot>
-    <text
-       transform="translate(-5.9769674,-3.5861813)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1064);fill:#ffffff;fill-opacity:1;stroke:none;"
-       id="text1062"
-       xml:space="preserve"><tspan
-         x="33.470703"
-         y="389.49844"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">DESTRUCTION4
-</tspan></tspan><tspan
-         x="33.470703"
-         y="445.74844"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">
-</tspan></tspan><tspan
-         x="33.470703"
-         y="501.99844"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">ミズノコウイチロウ</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">
-</tspan></tspan><tspan
-         x="33.470703"
-         y="558.24844"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">ワダダイナマイトヒロミツ</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff">
-</tspan></tspan></text>
-    <text
-       id="text1072"
-       y="441.10016"
-       x="29.884817"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;line-height:1.25;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.5px;font-family:fgzerorabaul;-inkscape-font-specification:'fgzerorabaul, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.9375"
-         y="441.10016"
-         x="29.884817"
-         id="tspan1070"
-         sodipodi:role="line">mitsuya</tspan></text>
-    <text
-       id="text1076"
-       y="108.78081"
-       x="-144.64261"
-       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.9375"
-         y="108.78081"
-         x="-144.64261"
-         id="tspan1074"
-         sodipodi:role="line" /></text>
-  </g>
-  <g
-     sodipodi:insensitive="true"
-     style="display:none"
-     inkscape:label="レイヤー 2"
-     id="layer3"
-     inkscape:groupmode="layer">
-    <rect
-       style="fill:#808080;fill-opacity:0.3;stroke:#000000;stroke-width:1.22852;stroke-opacity:1"
-       y="0.96448016"
-       x="1.0879529"
-       height="744.51129"
-       width="1053.353"
-       id="rect199" />
->>>>>>> ba39b304f06979043ce0e197c1f852850512e4eb
-  </g>
 </svg>
