@@ -1,2 +1,2 @@
-[222111]
-黒薔薇ゴシック=http://modi.jpn.org/font_kurobara-gothic.php
+[黒薔薇ゴシック]
+MODI_kurobara-gothic_2018_1102.zip=http://modi.jpn.org/font_kurobara-gothic.php

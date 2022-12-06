@@ -1,0 +1,2 @@
+[寺社境内名物集]
+jpegOutput.jpg=https://dl.ndl.go.jp/info:ndljp/pid/2533378/19
