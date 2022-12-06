@@ -1,3 +1,5 @@
 *backup*
 *コピー*
-fonts
+fonts/*.ttf
+fonts/*.txt
+outputs
